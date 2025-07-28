@@ -5,3 +5,5 @@ _site
 ecophys_web_test.Rproj
 .RData
 .Renviron
+
+/.quarto/

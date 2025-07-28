@@ -75,3 +75,7 @@ yaml::write_yaml(past_excel, "past_members.yaml")
 
 :::{#past_members}
 :::
+
+## Do you want to become one of us?
+
+See [this](/about.qmd) to learn how to join us!

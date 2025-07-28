@@ -1,216 +1,216 @@
 - name: Jordi Martínez
   position: Researcher at CREAF, professor at UAB
   interests: <
-  image: /img/bellota.webp
+  image: /img/members/jmv.png
 - name: Maurizio Mencuccini
   position: ICREA researcher at CREAF
   interests: Plant and ecosystem physiology, carbon and water fluxes in plants and
     ecosystems, sap flow
-  image: /img/bellota.webp
+  image: .na.character
 - name: Rafa Poyatos
   position: Researcher at CREAF, associate professor at UAB
   interests: Plant and ecosystem physiology, carbon and water fluxes in plants and
     ecosystems, sap flow
-  image: /img/bellota.webp
+  image: .na.character
 - name: Eva Castells
   position: Reseacher at CREAF, professor at UAB
   interests: Evolutionary ecology, chemical ecology, metabolomics, plant traits, toxicology
-  image: /img/bellota.webp
+  image: .na.character
 - name: Teresa E. Gimeno
   position: Ramón y Cajal Fellow
   interests: Plant ecophysiology, photosynthesis, transpiration, stable isotopes and
     trace gases
-  image: /img/bellota.webp
+  image: .na.character
 - name: Victor Granda
   position: Data Scientist at EMF (CREAF)
   interests: R, programming, data analysis, plant ecophysiology
-  image: /img/bellota.webp
+  image: /img/members/bellota.webp
 - name: Raúl García Valdés
   position: professor at URJC, associate reseacher at CREAF
   interests: Forest dynamics and modelling, climate change, plant traits, biogeography,
     species distribution drivers
-  image: /img/bellota.webp
+  image: .na.character
 - name: Pablo Sanchez-Martinez
   position: PhD Student (CREAF-UAB)
   interests: Plant evolution, plant ecophysiology, phylogenetics, functional traits,
     biogeography, statistics
-  image: /img/bellota.webp
+  image: .na.character
 - name: Luca Da Sois
   position: PhD Student (CREAF-UAB)
   interests: Plant ecophysiology, metabolomics, functional traits, phenotypic plasticity
-  image: /img/bellota.webp
+  image: .na.character
 - name: Albert Vilà
   position: JdC Research Fellow, Honorary Lecturer at University of Stirling
   interests: Forest dynamics, functional biogeography, biotic interactions, rear edge
     populations, drought-stressed forests
-  image: /img/bellota.webp
+  image: .na.character
 - name: Pol Soler
   position: PhD Student (CREAF-UAB)
   interests: Plant ecophysiology, water fluxes, global change, drought stress
-  image: /img/bellota.webp
+  image: .na.character
 - name: Brenda V. Fatecha
   position: PhD Student (CREAF-UAB)
   interests: Ecophysiology, water fluxes, forest ecology, land-atmosphere interactions,
     functional traits, distribution drivers
-  image: /img/bellota.webp
+  image: .na.character
 - name: José V. (pipo) Roces-Diaz
   position: Postdoctoral researcher  JdC-I
   interests: Forest ecosystem services, forest ecology, biogeography
-  image: /img/bellota.webp
+  image: .na.character
 - name: José Alberto Ramírez
   position: Severo Ochoa postdoctoral researcher
   interests: Evolutionary ecology, phenotypic plasticity, genetic variation, ecophysiology,
     functional traits
-  image: /img/bellota.webp
+  image: .na.character
 - name: Ana Hernández Serrano
   position: Research technician
   interests: Forest ecology, evolutionary ecology, ecophysiology
-  image: /img/bellota.webp
+  image: .na.character
 - name: Joan Prunera Olivé
   position: Research Technician
   interests: Plant taxonomy, physiology and evolutionary ecology
-  image: /img/bellota.webp
+  image: .na.character
 - name: Víctor Flo
   position: Margarita Sala' researcher (EXT)
   interests: Plant ecophysiology, water fluxes, functional traits, data science, R
-  image: /img/bellota.webp
+  image: .na.character
 - name: Josep Barba
   position: Ramón y Cajal Fellow
   interests: Forest ecology, GHG fluxes, soil respiration
-  image: /img/bellota.webp
+  image: .na.character
 - name: Laura Fernández de Uña
   position: MC Global Fellow
   interests: Plant ecophysiology, forest ecology, tree phenology, carbon and water
     fluxes
-  image: /img/bellota.webp
+  image: .na.character
 - name: Adriana Tovar
   position: MSc student
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Francesco D'Adamo
   position: Postdoc
   interests: Forest ecology, forest modelling, forest ecosystem services
-  image: /img/bellota.webp
+  image: .na.character
 - name: Oliver Binks
   position: Postdoc
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Sonia Hernando
   position: PhD Student (CREAF-UAB)
   interests: Ecophysiology, functional traits, general biology
-  image: /img/bellota.webp
+  image: .na.character
 - name: Laura Wynne Stewart
   position: Research technician
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Janko Arsić
   position: PhD researcher, Mendel University Brno
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Mehmet Özçelik
   position: Assistant Professor, Isparta University of Applied Sciences, Turkey
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Gayana Bexultanova
   position: PhD Student, University of Glasgow
   interests: Plant and ecosystem ecology, paleoarcheology, ethnobotany
-  image: /img/bellota.webp
+  image: .na.character
 - name: Marc Busuldu Tris
   position: Research technician
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Lion Martius
   position: PhD Student, University of Edinburgh
   interests: Ecophysiology, water transport, forest ecology, drought stress and recovery
-  image: /img/bellota.webp
+  image: .na.character
 - name: Jennifer Bertuzzi
   position: PhD Student, University of Perugia
   interests: ecophysiology, modelling, transpiration, agricultural crops
-  image: /img/bellota.webp
+  image: .na.character
 - name: Sophie Ruehr
   position: PhD Researcher, UC Berkeley, USA
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Oriol Palau
   position: Research Technician
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Kirsten O'Sullivan
   position: Postdoctoral researcher
   interests: global change, forest ecology, vegetation dynamics, functional traits,
     plant/environment interactions
-  image: /img/bellota.webp
+  image: .na.character
 - name: Henna Tyyskä
   position: PhD Student (CREAF-UAB)
   interests: Forest dynamics, plant & fungal biodiversity, global change
-  image: /img/bellota.webp
+  image: .na.character
 - name: David Chaparro
   position: Postdoc
   interests: remote sensing, vegetation water content
-  image: /img/bellota.webp
+  image: .na.character
 - name: Adolfo Sanmartín
   position: Research technician
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Abiel Teixidó
   position: Research technician
   interests: Ecometabolomics, functional traits, ecophysiology
-  image: /img/bellota.webp
+  image: .na.character
 - name: Kate Johnson
   position: MSCA Postdoc
   interests: Physiology, Ecology, Ecophysiology, cliamtic extremes, Evolutionary biology,
     xylem
-  image: /img/bellota.webp
+  image: .na.character
 - name: Margaux Didion-Gency
   position: SNSF postdoc
   interests: Ecophysiology, heat, drought, carbon aquisition and use
-  image: /img/bellota.webp
+  image: .na.character
 - name: Rosalie Frietzsche
   position: visiting undergrad student
   interests: ecophys, forestry
-  image: /img/bellota.webp
+  image: .na.character
 - name: Axel Grabert
   position: visiting undergrad student
   interests: ecophys, forestry
-  image: /img/bellota.webp
+  image: .na.character
 - name: Yanchao Zhao
   position: PhD student, University of Wuhan, China
   interests: ecophysiology, modelling, transpiration, agricultural crops
-  image: /img/bellota.webp
+  image: .na.character
 - name: Meng Chen
   position: PhD student, Northwest Agriculture & Forestry University, Xianyiang, China
   interests: tree rings, functional traits, global change
-  image: /img/bellota.webp
+  image: .na.character
 - name: Atticus Stovall
   position: NASA/University of Maryland, USA
   interests: terrestrial laser scanning, vegetation structural properties, remote
     sensing
-  image: /img/bellota.webp
+  image: .na.character
 - name: Arnau Salvador Cellini
   position: Research Technician
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Paola Monzón Narciso
   position: MSc student
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Miriam Selwyn Álvarez
   position: Post-doc
   interests: biodiversity monitoring, ecosystem services, land use change
-  image: /img/bellota.webp
+  image: .na.character
 - name: Jana Fernández Boixaderas
   position: Undergraduate student
   interests: biodiversity monitoring, ecosystem services, land use change
-  image: /img/bellota.webp
+  image: .na.character
 - name: Víctor Pérez Ramos
   position: Undergraduate student
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Deep Sarkar
   position: PhD candidate, MPI-BGC Jea, Germany
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
 - name: Emre Karsaoy
   position: Undergraduate student
   interests: .na.character
-  image: /img/bellota.webp
+  image: .na.character
