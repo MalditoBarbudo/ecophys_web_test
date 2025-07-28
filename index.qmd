@@ -40,3 +40,5 @@ Content
 ## An even more cooler content
 
 Larara 
+
+![](/img/bellota.webp)
