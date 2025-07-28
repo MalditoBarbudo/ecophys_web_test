@@ -1,0 +1,29 @@
+---
+title: "Research Projects"
+format: html
+listing:
+  - id: actual
+    contents:
+      - "*_project.qmd"
+    type: grid
+    image-placeholder: "/img/bellota.webp"
+  - id: former
+    contents:
+      - "*_former.qmd"
+    type: table
+    image-placeholder: "/img/tree.webp"
+    fields:
+      - title
+    field-display-names:
+      title: Project
+---
+
+# Actual projects
+
+:::{#actual}
+:::
+
+# Former projects
+
+:::{#former}
+:::

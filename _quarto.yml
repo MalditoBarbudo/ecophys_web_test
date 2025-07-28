@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "EcoPhys"
+  navbar:
+    logo: "img/bellota.webp"
+    pinned: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people/people.qmd
+        text: Who we are
+      - text: Research
+        menu:
+          - href: research/research_projects.qmd
+            text: Research Projects
+      - href: about.qmd
+        text: About us
+  page-footer:
+    left: EcoPhys
+    right: Copyright 2025, ![](img/bellota.webp)
+    border: true
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: litera
+    css: styles.css
+    toc: true

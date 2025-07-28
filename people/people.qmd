@@ -1,0 +1,77 @@
+---
+title: "Who we are"
+format: html
+listing:
+  - id: actual_members
+    type: grid
+    fields: 
+      - name
+      - position
+      - interests
+      - image
+    field-display-names: 
+      name: " "
+      position: "Position:"
+      interests: "I'm interested in:"
+    contents:
+      - actual_members.yaml
+  - id: past_members
+    type: table
+    fields: 
+      - name
+    field-display-names: 
+      name: Name
+    contents:
+      - past_members.yaml
+---
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(readxl, quietly = TRUE)
+library(yaml, quietly = TRUE)
+
+members_excel <- read_excel(
+  "group_info.xlsx", sheet = "Current group members", skip = 2
+) |>
+  dplyr::filter(!is.na(Name)) |>
+  dplyr::group_by(Name) |>
+  dplyr::mutate(
+    yaml_list = list(list(
+      name = Name,
+      position = Position,
+      interests = Interests,
+      image = path_image_web
+    ))
+  ) |>
+  dplyr::pull(yaml_list)
+
+yaml::write_yaml(members_excel, "actual_members.yaml")
+
+past_excel <- read_excel(
+  "group_info.xlsx", sheet = "Past members"
+) |>
+  dplyr::filter(!is.na(`PAST MEMBERS`)) |>
+  dplyr::group_by(`PAST MEMBERS`) |>
+  dplyr::mutate(
+    yaml_list = list(list(
+      name = `PAST MEMBERS`
+    ))
+  ) |>
+  dplyr::pull(yaml_list)
+
+yaml::write_yaml(past_excel, "past_members.yaml")
+```
+
+
+
+# Actual members
+
+:::{#actual_members}
+:::
+
+# Past members
+
+:::{#past_members}
+:::

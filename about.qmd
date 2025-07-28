@@ -1,0 +1,16 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: img/bellota.webp
+  image-shape: "round"
+  links:
+    - href: "mailto@Ecophys@creaf.uab.cat"
+      text: "Email"
+      icon: "envelope-at-fill"
+    - href: "https://www.creaf.cat/es/investigacion/directorio-de-investigacionfisiologia-ecosistemica-y-cambio-global"
+      text: "CREAF web"
+      icon: "tree-fill"
+---
+
+Some text about the Ecophys group, where we are and how to contact
